@@ -1,9 +1,9 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "",
   "main": "calc.js",
   "dependencies": {
+    "express": "^4.15.4",
     "nconf": "^0.8.4"
   },
   "devDependencies": {},
@@ -11,5 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
